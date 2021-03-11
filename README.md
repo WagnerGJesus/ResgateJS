@@ -3,3 +3,4 @@
 
 - [x] Criar estrutura básica
 - [x] Criar estilo CSS
+- [x] Criar 1º comportamento JavaScript 
