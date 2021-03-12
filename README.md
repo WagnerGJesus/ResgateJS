@@ -7,3 +7,5 @@
 - [x] Criar Classe para Animação 
 - [x] Criar Game Loop
 - [x] Detectar Teclas e Movimentacao
+- [x] Limitar Area de Movimentacao do Player
+- [x] Movimentar Inimigo1
