@@ -10,3 +10,4 @@
 - [x] Limitar Area de Movimentacao do Player
 - [x] Movimentar Inimigo1
 - [x] Movimentar Inimigo2 e Amigo
+- [x] Criar Disparo e limitar quantidade
