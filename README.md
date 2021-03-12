@@ -11,3 +11,4 @@
 - [x] Movimentar Inimigo1
 - [x] Movimentar Inimigo2 e Amigo
 - [x] Criar Disparo e limitar quantidade
+- [x] Criar Colisão com utilizando jquery collision
