@@ -5,3 +5,4 @@
 - [x] Criar estilo CSS
 - [x] Criar 1º comportamento JavaScript 
 - [x] Criar Classe para Animação 
+- [x] Criar Game Loop
