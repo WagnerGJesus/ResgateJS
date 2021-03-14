@@ -17,3 +17,4 @@
 - [x] Criar Colisão Inimigo2 com Amigo, e Morte do Amigo 
 - [x] Criar Inteface Grafica do Usuario: Pontuacao, Quantidade de amigos Salvos e Perdidos
 - [x] Criar Inteface Grafica do Usuario: Barra de Energia
+- [x] Aumentando a dificuldade do Jogo
