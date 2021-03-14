@@ -18,3 +18,4 @@
 - [x] Criar Inteface Grafica do Usuario: Pontuacao, Quantidade de amigos Salvos e Perdidos
 - [x] Criar Inteface Grafica do Usuario: Barra de Energia
 - [x] Aumentando a dificuldade do Jogo
+- [x] Criar Sons
