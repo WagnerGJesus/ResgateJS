@@ -12,4 +12,5 @@
 - [x] Movimentar Inimigo2 e Amigo
 - [x] Criar Disparo e limitar quantidade
 - [x] Criar Colisão com utilizando jquery collision
-- [x] Criar Colisão jogador com Inimigo1 e Explosao do Inimigo1 
+- [x] Criar Colisão jogador com Inimigo1 e Explosao do Inimigo1
+- [x] Criar Colisão jogador com Amigo, Inimigo2,Disparo com Inimigos e Explosao do Inimigo2  
