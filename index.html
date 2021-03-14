@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <title>Resgate</title>
 <link href="css/estilos.css" rel="stylesheet" type="text/css">
+<link href="css/gamepad.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -19,6 +20,14 @@
     </div> <!-- Fim da div fundoGame !-->
 	
 </div> <!-- Fim da div container !-->
+<div id="controle">
+	<p>
+		<button onclick="handleButtonClick(this)">Connect</button>
+		<button onclick="document.querySelector('#events').innerHTML = '';">Clear log</button>
+	</p>
+	<p id="events">
+	</p>
+</div>
 <!-- Sons do jogo !-->
 <audio src="sons/som.mp3" preload="auto" id="somDisparo"></audio>
 <audio src="sons/explosao.mp3" preload="auto" id="somExplosao"></audio>
@@ -29,6 +38,9 @@
 
 <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="js/jquery-collision.min.js"></script>
-<script type="text/javascript" src="js/js.js"></script> 
+<script src="js/gamepadSimulator.js"></script> 
+<script src="js/gamepad.js"></script> 
+<script type="text/javascript" src="js/js.js"></script>
+
 </body>
 </html>

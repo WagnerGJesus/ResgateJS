@@ -21,3 +21,4 @@
 - [x] Criar Sons
 - [x] Criar Mensagem de "Game Over".
 - [x] Criar Reiniciar Jogo
+- [x] Criar Hud GamePad
