@@ -16,3 +16,4 @@
 - [x] Criar Colisão jogador com Amigo, Inimigo2,Disparo com Inimigos e Explosao do Inimigo2  
 - [x] Criar Colisão Inimigo2 com Amigo, e Morte do Amigo 
 - [x] Criar Inteface Grafica do Usuario: Pontuacao, Quantidade de amigos Salvos e Perdidos
+- [x] Criar Inteface Grafica do Usuario: Barra de Energia
